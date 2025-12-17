@@ -1,0 +1,12 @@
+div {
+    background: grey;
+    height: 350px;
+    width: 500px;
+}
+
+ul{
+    background: blueviolet;
+}
+li {
+    background: greenyellow;
+}
