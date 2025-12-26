@@ -1,4 +1,4 @@
-div {
+/* div {
     background: grey;
     height: 350px;
     width: 500px;
@@ -9,4 +9,50 @@ ul{
 }
 li {
     background: greenyellow;
+} */
+
+
+
+
+
+
+body{
+    text-align: center;
+}
+.btn {
+    height: 200px;
+    width: 200px;
+    margin: 1.5rem;
+    border: 3px solid black;
+    border-radius: 15%;
+}
+.buttonHolder{
+    display: flex;
+    justify-content: center;
+}
+
+.yellow{
+    background-color: #f7f46c;
+}
+.red{
+    background-color: rgb(247, 101, 101);
+}
+.green{
+    background-color: rgb(69, 196, 154);
+}
+.purple{
+    background-color: rgb(164, 87, 236);
+}
+
+.flash{
+    background-color: #44f4fa;
+}
+
+.userflash{
+    background-color: green;
+}
+
+.reset{
+    background-color: red;
+    
 }
